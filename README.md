@@ -2,7 +2,7 @@
 
 Now I am a PDP academy student,young flutter developer
 I am also learning the English language at the Upper-Intermediate level
-<a href = "https://t.me/dart_f1utter" >My Portfolio<a/>
+<a href = "https://t.me/flutter_blog_channel" >My Telegram Channel<a/>
 ### Languages 
 flutter, Dart
 ### ide
