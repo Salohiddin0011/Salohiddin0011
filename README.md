@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Salohiddin Jamoliddinov
 
-<!--
-**Salohiddin0011/Salohiddin0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I am a PDP academy student,young flutter developer
+I am also learning the English language at the Upper-Intermediate level
+<a href = "https://t.me/dart_f1utter" >My Portfolio<a/>
+### Languages 
+flutter, Dart
+### ide
+Visual studio code
+### skills
+English, Networking, Local Storage, Localization, Glassporphic UI, and other skills related to flutter and dart
+### social medias
+my telegram - @jamoliddinov_salohiddin
+my Linkedin - https://www.linkedin.com/in/jamoliddinov-salohiddin-b108a6281/
+<br/>
+-📍<nbsp>Current Location: Tashkent, Uzbekistan<br/>
+-✍️<nbsp>Ask me about anything, I'm happy to help<br/>
